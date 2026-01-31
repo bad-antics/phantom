@@ -1,0 +1,21 @@
+name = "Phantom"
+uuid = "d9f0c3a1-5e8b-4f7c-9a2d-1b3e5f7c9d1a"
+authors = ["NullSec Team"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Printf = "de0858da-6303-5e67-8744-51gy030d533"
+
+[compat]
+julia = "1.10"
+JSON3 = "1"
+HTTP = "1"
